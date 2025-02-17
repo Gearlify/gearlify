@@ -4,7 +4,7 @@ const typingDuration = 8500;
 // Check if the effect has already played
 if (sessionStorage.getItem("typewriterPlayed")) {
   // Redirect immediately if the effect has played
-  window.location.href = "landing.html"; // Replace with your main page link
+  window.location.href = "index.php"; // Replace with your main page link
 } else {
   // Set session storage to remember the effect played
   sessionStorage.setItem("typewriterPlayed", "true");
