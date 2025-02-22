@@ -11,7 +11,7 @@ if (sessionStorage.getItem("typewriterPlayed")) {
 
   // Redirect after the animation ends
   setTimeout(() => {
-    window.location.href = "https://loginpage-a6c6.onrender.com"; // Replace with your main page link
+    window.location.href = "http://ayotheg.42web.io/?i=1"; // Replace with your main page link
   }, typingDuration);
 }
 
