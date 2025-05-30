@@ -1,6 +1,6 @@
 {
     "name": "Gearlify",
-    "short_name": "GearlifyApp",
+    "short_name": "Gearlify",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#000000",
