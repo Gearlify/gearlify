@@ -219,20 +219,21 @@ align-items: flex-start;
 
 
 .support{
-   display: flex;
+   display:flex;
    position: absolute;
    text-align: center !important;
    top: 580px;
    left: 1px;
    right: 1px;
+   font-size: 12px;
+   justify-content: center;
 }
 
 .gear>a{
     color: var(--purple);
-     display: flex;
+     display:block;
     position: absolute;
-    text-align: center !important;
-    top: 45px;
+    top: 35px;
     left: 1px;
     right: 1px;
 }
